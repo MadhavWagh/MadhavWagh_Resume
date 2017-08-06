@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.9)  6 AUG 2017 14:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.7.9)  6 AUG 2017 14:56
 entering extended mode
 **./MadhavWagh_Resume.tex
 (MadhavWagh_Resume.tex
@@ -496,17 +496,14 @@ LaTeX Info: Redefining \nameref on input line 37.
 \@outlinefile=\write3
 \openout3 = `MadhavWagh_Resume.out'.
 
-\pagenumberwidth=\skip72
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 37.
 \makecvtitlepicturebox=\box31
 
-<picture.jpg, id=48, 448.67625pt x 519.9425pt>
-File: picture.jpg Graphic file (type jpg)
- <use picture.jpg>
-Package pdftex.def Info: picture.jpg used on input line 44.
-(pdftex.def)             Requested size: 70.0pt x 81.11388pt.
-\makecvtitlepicturewidth=\skip73
+<picture.JPG, id=47, 1260.71pt x 1294.8375pt>
+File: picture.JPG Graphic file (type jpg)
+ <use picture.JPG>
+Package pdftex.def Info: picture.JPG used on input line 44.
+(pdftex.def)             Requested size: 80.0pt x 82.15211pt.
+\makecvtitlepicturewidth=\skip72
 
 Underfull \hbox (badness 10000) in paragraph at lines 44--44
 
@@ -544,6 +541,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--77
 
  []
 
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 89.
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10> not available
 (Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 89.
 (C:\Users\Waghmam\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-mvs.cfg
@@ -573,18 +572,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 135.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 134.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 135.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 134.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -595,7 +589,12 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 [1
 
 {C:/Users/Waghmam/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./picture
-.jpg>]
+.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
@@ -638,15 +637,19 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 237.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 237.
 Package rerunfilecheck Info: File `MadhavWagh_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 6E3B00636793BF173AECE5DE21AD6732;1355.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 12294 strings out of 493323
- 179475 string characters out of 3139061
- 405999 words of memory out of 3000000
+ 12293 strings out of 493323
+ 179471 string characters out of 3139061
+ 404875 words of memory out of 3000000
  15616 multiletter control sequences out of 15000+200000
  44107 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,67p,803b,470s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,12n,67p,803b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
@@ -656,9 +659,9 @@ X 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lms
 y10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Users
 /Waghmam/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on MadhavWagh_Resume.pdf (2 pages, 232464 bytes).
+Output written on MadhavWagh_Resume.pdf (2 pages, 377132 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
+ 116 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 500000)
  13918 words of extra memory for PDF output out of 14400 (max. 10000000)
 
